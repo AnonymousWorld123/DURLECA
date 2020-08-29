@@ -1,5 +1,5 @@
 # DURLECA
-Here is the released code for the DUal-objective Reinforcement-Learning Epidemic Control Agent (DURLECA) presented in our KDD paper *Reinforced Epidemic Control: Saving Both Lives and Economy*.
+Here is the released code for the DUal-objective Reinforcement-Learning Epidemic Control Agent (DURLECA) presented in our KDD paper [*Reinforced Epidemic Control: Saving Both Lives and Economy*](https://arxiv.org/abs/2008.01257).
 
 
 
